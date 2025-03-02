@@ -22,6 +22,11 @@ The following **additional** features are implemented:
 
 * [x] List anything else that you added to improve the site's functionality!
 
+## Video Walkthrough
+
+Here's a walkthrough of implemented required features:
+![gif](public/photos/man-utd-merch.gif)
+
 ## Notes
 
 Describe any challenges encountered while building the app.
